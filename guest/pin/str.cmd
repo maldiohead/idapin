@@ -1,0 +1,1 @@
+strings.exe -o dump.hex >>str.log
