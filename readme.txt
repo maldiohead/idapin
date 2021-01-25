@@ -1,6 +1,5 @@
 
 
-the next week,I will release my pin trace tool source code ;)
 
 Host配置：
 1.	将pinx.plw放入IDA 的plugins目录（启动该插件的快捷方式是alt+f9或者在插件菜单栏中找到pinx）
